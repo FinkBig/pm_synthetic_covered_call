@@ -1,0 +1,4 @@
+Strategy,Initial_Value,Final_Value,Total_Return,Annualized_Return,Volatility,Max_Drawdown,Sharpe_Ratio,Win_Rate,Max_Value,Min_Value,Avg_Daily_Return
+Vanilla BTC,"$10,000.00","$9,489.41",-5.11%,-23.33%,25.12%,-11.06%,-0.93,50.7%,"$10,299.19","$9,160.60",-0.065%
+Covered Calls,"$10,000.00","$10,327.38",3.27%,17.74%,23.60%,-7.70%,0.75,54.9%,"$10,747.39","$9,683.79",0.043%
+PM Covered Call,"$10,000.00","$14,920.11",49.20%,660.20%,51.14%,-10.57%,12.91,69.0%,"$15,948.51","$9,000.00",0.751%

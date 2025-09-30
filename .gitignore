@@ -37,10 +37,10 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Data files (exclude output files but keep input data)
-outputs/
+# Data files (keep output files for GitHub but exclude other data)
 *.pkl
 *.pickle
 
 # Keep these data files for the project
 !covered_calls_analysis/data/*.csv
+!covered_calls_analysis/outputs/
