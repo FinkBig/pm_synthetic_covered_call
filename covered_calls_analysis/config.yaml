@@ -1,0 +1,15 @@
+# Simplified Configuration for Covered Calls Analysis
+
+# Date range for analysis - using full PM data period with extended BTC and Deribit data
+date_range:
+  start: '2025-07-15'
+  end: '2025-09-24'
+
+# Strategy parameters
+initial_capital: 10000.0
+fees_pct: 0.0  # No fees for comparability between strategies
+otm_percentage: 0.02  # 2% out-of-the-money for covered calls
+
+# Output settings
+generate_charts: true
+save_results: true
